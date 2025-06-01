@@ -93,7 +93,7 @@ The correlation analysis focuses on understanding the relationship between news 
 
 ## Getting Started
 1. Clone the repository
-`https://github.com/shewanek/KAIM_W1_FinanceNewsAnalytics.git`
+`https://github.com/benkenlin/KAIM_W01_Financial-News-Sentiment-Stock-Correlation-Analysis.git`
 2. Install required dependencies:
 
 `pip install -r requirements.txt`
