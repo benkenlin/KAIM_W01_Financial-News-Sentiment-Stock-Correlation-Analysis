@@ -1,0 +1,10 @@
+matplotlib==3.9.3
+numpy==2.2.0
+pandas==2.2.3
+plotly==5.24.1
+seaborn==0.13.2
+scikit-learn==1.3.1
+pynance-1.0.0
+TA-Lib-0.4.29
+textblob==0.18.0
+scipy==1.12.0
