@@ -109,8 +109,7 @@ The correlation analysis focuses on understanding the relationship between news 
 
 
 ## Acknowledgments
-- 10 Academy for the project sponsorship
-- KAIM for the project guidance
+- 10 Academy for the project guidance
 
 
 
